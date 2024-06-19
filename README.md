@@ -1,5 +1,5 @@
 # offspring-simulation-of-population-migration
-imulate two populations with migration each other
+Simulate two populations with migration each other
 
 Task: Simulate two populations, each of which has n individual observations and m variables, where you specify the values of n and m at the start of the simulation.
 
